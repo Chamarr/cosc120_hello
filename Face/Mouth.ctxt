@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mouth
+comment1.params=x\ y
+comment1.target=Mouth(int,\ int)
+comment1.text=\r\n\ Create\ a\ mouth\ whose\ center\ is\ at\ x,\ y.\ As\ mouth\ smiles\ or\ frowns\r\n\ center's\ y\ may\ move\ up\ or\ down,\ but\ sides\ remain\ fixed.\r\n\ \r\n\ @param\ x\ location\ of\ mouth's\ center\r\n\ @param\ y\ location\ of\ mouth's\ center\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Draw\ the\ mouth\r\n\ \r\n\ @param\ g\ is\ the\ Graphics\ context\ on\ which\ mouth\ should\ be\ drawn.\r\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\r\n\ Get\ the\ height\ of\ the\ mouth\ (positive\ is\ a\ smile,\ negative\ is\ a\ frown).\r\n\ The\ larger\ the\ value's\ absolute\ value,\ the\ more\ extreme\ the\ mouth\ shape.\r\n\ \r\n\ @return\ the\ size\ of\ the\ smile\r\n
+comment4.params=height
+comment4.target=void\ setHeight(int)
+comment4.text=\r\n\ Set\ the\ height\ of\ the\ mouth.\ A\ positive\ value\ is\ a\ smile,\ negative\ is\ a\ frown.\r\n\ The\ larger\ the\ value,\ the\ more\ extreme\ the\ mouth's\ shape.\r\n\ \r\n\ @param\ height\ to\ set\ mouth\ \r\n
+numComments=5

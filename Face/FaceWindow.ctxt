@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FaceWindow
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=javax.swing.JPanel\ createControlPanel()
+comment2.text=\r\n\ Create\ a\ simple\ control\ panel\ to\ neatly\ house\ the\ buttons\r\n
+comment3.params=click
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ Handle\ clicks\ from\ control\ buttons\r\n\ \r\n\ @param\ click\ \r\n
+numComments=4

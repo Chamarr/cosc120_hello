@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Eye
+comment1.params=x\ y
+comment1.target=Eye(int,\ int)
+comment1.text=\r\n\ Initialize\ this\ eye\ at\ specified\ location\r\n\ \r\n\ @param\ x\ is\ the\ x\ coordinate\ for\ the\ eye's\ center\ \r\n\ @param\ y\ is\ the\ y\ coordinate\ for\ the\ eye's\ center\ \r\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment2.text=\r\n\ Get\ height\ of\ eye\r\n\ \r\n\ @return\ int\r\n
+comment3.params=value
+comment3.target=void\ setHeight(int)
+comment3.text=\r\n\ Change\ eye\ height\ to\ specified\ value\r\n\ \r\n\ @param\ value\ to\ set\ height\ of\ eye\r\n
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment4.text=\r\n\ Draw\ this\ eye\r\n\ \r\n\ @param\ g\ is\ the\ Graphics\ context\ on\ which\ eye\ should\ be\ drawn.\r\n
+numComments=5
